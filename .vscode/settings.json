@@ -1,9 +1,11 @@
 {
     "cSpell.words": [
         "browsers",
-        "list"
+        "list",
+        "peasy"
     ],
     "cSpell.ignoreWords": [
-        "browserslist"
+        "browserslist",
+        "esnext"
     ]
 }
