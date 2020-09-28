@@ -6,6 +6,7 @@
     ],
     "cSpell.ignoreWords": [
         "browserslist",
-        "esnext"
+        "esnext",
+        "repos"
     ]
 }
