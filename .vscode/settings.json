@@ -8,5 +8,6 @@
         "browserslist",
         "esnext",
         "repos"
-    ]
+    ],
+    "eslint.enable": true
 }
