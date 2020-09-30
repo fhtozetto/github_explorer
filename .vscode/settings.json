@@ -6,8 +6,10 @@
     ],
     "cSpell.ignoreWords": [
         "browserslist",
+        "camelcase",
         "esnext",
         "params",
+        "readonly",
         "repos"
     ],
     "eslint.enable": true
